@@ -10,3 +10,9 @@ Example:
   ./card_img.py test.JPG 4 train.png train.tsv 56
   
 Note: The recognition method is not very robust; please see SIFT / SURF for a good algorithm.  
+
+
+###
+if libxx wrong
+`!sudo ln /dev/null /dev/raw1394`
+
